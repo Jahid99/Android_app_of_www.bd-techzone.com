@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_be0edc7c38d26e87cf182bf2102e8600778b92d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-24.2.1_ed8b85d724bf9f41f751db358b2f2002ecfbd87c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_826abc9cb3f6173ffce86bf2546df8aca0320330\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_826abc9cb3f6173ffce86bf2546df8aca0320330.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_be0edc7c38d26e87cf182bf2102e8600778b92d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_cabc60ae85b6fc9fc95e007c845ea7cf07d3de53.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_cabc60ae85b6fc9fc95e007c845ea7cf07d3de53\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_ef2efd548c7a6f59ca8f89b0888d1cd843f047b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_94c844270edcc85662ff0e4a454c9e4a47674a6c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_94c844270edcc85662ff0e4a454c9e4a47674a6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_ed8b85d724bf9f41f751db358b2f2002ecfbd87c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jahidul\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_7f42458d0235d5a03b54017e4b15365d22c6988a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jahidul\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\pre-dexed\release\support-annotations-24.2.1_7f42458d0235d5a03b54017e4b15365d22c6988a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_9198a61a5f86a54b8f2115caee4796ad0b086eaf\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\pre-dexed\release\com.android.support-support-core-ui-24.2.1_eecc69ffc5a4af0e18e527f16a3233bcb9b075bb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_f46a929d4fe23da1e41acb57d523f7a43a76f1c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1bbd1c64c76a9ae208554e88050f2e8031281a2e">
+        <dex dex="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_fbb7c27924ee3cb640d6a217238e8b26eafb281b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_eecc69ffc5a4af0e18e527f16a3233bcb9b075bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\pre-dexed\release\com.android.support-support-media-compat-24.2.1_7c4ce5d527d24c127790fd9e13cbe9486b698b59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-24.2.1_9198a61a5f86a54b8f2115caee4796ad0b086eaf.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_882d1a45174600fa21703f8530d4b294fb344297\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_69c4398e922cdbaf976bc4ce70ebedb572e7c82e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\pre-dexed\release\com.android.support-support-fragment-24.2.1_4ada6e06f235a005779a343dae7ba7ab0a0ad624.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-24.2.1_882d1a45174600fa21703f8530d4b294fb344297.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-24.2.1_ef2efd548c7a6f59ca8f89b0888d1cd843f047b2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="941d6b167312fdd35d295717eaddee70a91944f6">
+        <dex dex="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4ae98746721d80e1e37aa13518ee2975b1c9de29\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\pre-dexed\release\com.android.support-support-core-utils-24.2.1_69c4398e922cdbaf976bc4ce70ebedb572e7c82e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_7c4ce5d527d24c127790fd9e13cbe9486b698b59\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_f46a929d4fe23da1e41acb57d523f7a43a76f1c9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_4ada6e06f235a005779a343dae7ba7ab0a0ad624\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\pre-dexed\release\com.android.support-support-compat-24.2.1_a02194889972f47057ebbd1080199974d1a0c192.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Jahidul\AndroidStudioProjects\Online_exam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_a02194889972f47057ebbd1080199974d1a0c192\classes.dex" />
+    </item>
+
+</items>
